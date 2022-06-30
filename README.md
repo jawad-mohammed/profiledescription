@@ -1,11 +1,13 @@
-jawadmohammed/README.md
+jawadMohammed/README.md
 
 
 Hello and Welcome 👋, I'm Jawad
 
-I'm Sofware Developer  
+I'm Software Developer  
 
 👨🏽‍🎓 I enjoy learning coding skills and helping fellow developers
+
+📺 ReactJS,JavaScript, PostgreSQL,TypeScript, Nodejs, Expressjs 
 
 🌱 I'm currently growing in Java backend development
 
