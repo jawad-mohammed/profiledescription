@@ -5,7 +5,7 @@ Hello and Welcome 👋, I'm Jawad
 
 I'm Sofware Developer  
 
-👨🏽‍🎓 I enjoy teaching coding skills and helping fellow developers
+👨🏽‍🎓 I enjoy learning coding skills and helping fellow developers
 
 🌱 I'm currently growing in Java backend development
 
